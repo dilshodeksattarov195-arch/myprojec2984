@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentstringify",
+        "uuid": 24182336,
+        "checksum": "0o80zh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
